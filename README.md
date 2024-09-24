@@ -6,6 +6,7 @@ Cuenta con las siguientes funciones:
 * Copiar, Cortar y Pegar.
 * Seleccion del todo el texto.
 * Alineacion del texto.
+* Carga y guardado de archivos .txt
 
 ## Imagenes del programa
 ![Captura de pantalla 2024-09-24 174533](https://github.com/user-attachments/assets/f92974e4-b4d9-4e8a-aa56-7bbe233cebb0)
